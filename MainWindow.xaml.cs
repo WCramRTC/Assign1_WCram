@@ -17,6 +17,7 @@ namespace Assign1_WCram
     public partial class MainWindow : Window
     {
         // Will was here
+        // Will will be leaving soon
         public MainWindow()
         {
             InitializeComponent();
